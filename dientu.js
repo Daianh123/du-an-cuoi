@@ -87,7 +87,7 @@ const questions = [
   {
     question:
       "Question 18:My sister and I don't mind ...... food and drinks for the party tomorrow. (prepare)",
-    answer: "prepare",
+    answer: "preparing",
   },
   {
     question:
